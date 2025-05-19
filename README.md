@@ -86,7 +86,8 @@ int main() {
 
 
 ## OUTPUT
-![Uploading 439539404-efe8bd24-eca0-4117-96d0-6e1dec27ac3b.png…]()
+![439539404-efe8bd24-eca0-4117-96d0-6e1dec27ac3b](https://github.com/user-attachments/assets/bdb5798c-73f7-4a3b-bd75-5242acce8a66)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family :
